@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsandeep1987
 - 👀 I’m interested in ... Front End Development
-- 🌱 I’m currently learning ... React and JAvaScript
+- 🌱 I’m currently learning ... React and JavaScript
 - 💞️ I’m looking to collaborate on ... Web Development
 - 📫 How to reach me ... 
 
